@@ -15,6 +15,15 @@ body{
 
 .side-bar {
     background-image: url(leaves.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.side-bar p, 
+.side-bar a {
+    color: white;
 }
 
 .logo-div {
