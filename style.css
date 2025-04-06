@@ -1,7 +1,16 @@
+@font-face {
+    font-family: 'Norse Bold', sans-serif;
+    src: url(Norse-Bold.otf);
+}
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
 }
 
 .side-bar {
