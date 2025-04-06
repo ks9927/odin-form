@@ -64,6 +64,7 @@ form {
     background-color: white;
     text-align: left;
     padding: 40px;
+    box-shadow: -2px 10px 10px 0px #e4e5e6;
 }
 
 form h3 {
@@ -84,6 +85,7 @@ input {
 
 input:focus {
     outline: solid 3px #adbae1;
+    box-shadow: -2px 10px 10px 0px #e4e5e6;
 }
 
 input[type="password"]:invalid {
