@@ -28,7 +28,7 @@ body{
 }
 
 .logo-div {
-    background-color: gray;
+    background: rgba(95, 91, 91, 0.2);
     color: white;
     font-family: "Norse Bold", sans-serif;
     font-size: 4rem;
