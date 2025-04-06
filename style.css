@@ -30,12 +30,12 @@ body{
     background-color: gray;
     color: white;
     font-family: "Norse Bold", sans-serif;
-    font-size: 2rem;
+    font-size: 3rem;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .logo-div img {
-    width: 50%;
+    width: 45%;
 }
