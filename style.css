@@ -83,7 +83,7 @@ input {
 }
 
 input:focus {
-    border: solid 5px #adbae1;
+    outline: solid 3px #adbae1;
 }
 
 .input-item {
