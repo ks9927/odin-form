@@ -90,3 +90,14 @@ input {
     display: flex;
     gap: 30px;
 }
+
+button {
+    width: 25%;
+    padding: 10px;
+    background-color: #596d48;
+    color: white;
+    font-weight: bold;
+    border: solid 1px #596d48;
+    margin: 20px;
+    border-radius: 10px;
+}
