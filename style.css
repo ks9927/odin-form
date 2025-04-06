@@ -73,4 +73,6 @@ form h3 {
 
 label {
     text-transform: uppercase;
+    color: #646b74;
+    font-weight: bold;
 }
