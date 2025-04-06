@@ -46,8 +46,6 @@ body{
 .main-content {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
     background-color: #f9fafb;
 }
 
@@ -64,8 +62,7 @@ body{
 
 form {
     background-color: white;
-    outline: 1px solid red;
-    padding: 20px;
+    text-align: left;
 }
 
 form h3 {
@@ -82,3 +79,12 @@ input {
     margin-bottom: 15px;
 }
 
+.input-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-group {
+    display: flex;
+    gap: 30px;
+}
