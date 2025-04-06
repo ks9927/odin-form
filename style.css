@@ -50,3 +50,14 @@ body{
     align-items: center;
     background-color: #f9fafb;
 }
+
+.site-info {
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 50px;
+    padding: 45px;
+}
+
+.site-info p:first-child {
+    margin-bottom: 15px;
+}
