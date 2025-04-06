@@ -79,6 +79,11 @@ label {
 
 input {
     margin-bottom: 15px;
+    border: solid 3px #E5E7EB;
+}
+
+input:focus {
+    border: solid 5px #adbae1;
 }
 
 .input-item {
