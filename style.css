@@ -63,10 +63,12 @@ body{
 form {
     background-color: white;
     text-align: left;
+    padding: 40px;
 }
 
 form h3 {
     font-size: 1.5rem;
+    margin-bottom: 20px;
 }
 
 label {
