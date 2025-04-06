@@ -61,3 +61,16 @@ body{
 .site-info p:first-child {
     margin-bottom: 15px;
 }
+
+form {
+    background-color: white;
+    padding: 30px;
+}
+
+form h3 {
+    font-size: 1.5rem;
+}
+
+label {
+    text-transform: uppercase;
+}
