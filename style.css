@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Norse Bold', sans-serif;
+    font-family: 'Norse Bold';
     src: url(Norse-Bold.otf);
 }
 * {
@@ -15,4 +15,18 @@ body{
 
 .side-bar {
     background-image: url(leaves.jpg);
+}
+
+.logo-div {
+    background-color: gray;
+    color: white;
+    font-family: "Norse Bold", sans-serif;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-div img {
+    width: 50%;
 }
