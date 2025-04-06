@@ -101,3 +101,13 @@ button {
     margin: 20px;
     border-radius: 10px;
 }
+
+.log-in {
+    margin: 0 20px;
+}
+
+.log-in a {
+    font-weight: 800;
+    text-decoration: none;
+    color: #6a7c5b;
+}
