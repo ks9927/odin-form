@@ -19,6 +19,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 70%;
 }
 
 .side-bar p, 
@@ -30,12 +31,13 @@ body{
     background-color: gray;
     color: white;
     font-family: "Norse Bold", sans-serif;
-    font-size: 3rem;
+    font-size: 4rem;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 10px;
 }
 
 .logo-div img {
-    width: 45%;
+    width: 25%;
 }
